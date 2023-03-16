@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gabriel Mota 
 
-- 📚 Desenvolvimento de Sistema - Web javascript
+- 📚 Desenvolvimento de Sistema 
 
 <div align="center">
   <a href="https://github.com/gabrielMota21>
@@ -24,8 +24,6 @@
   <img align="center" alt="TypeScript" height="30" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   
 </div>
 
