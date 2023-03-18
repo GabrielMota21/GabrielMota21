@@ -1,13 +1,6 @@
 # Olá Seja Bem-vindo ! Eu sou o Gabriel Silva
-- 📚 Desenvolvimento de Sistema 
-- 
-<div align="center">
-  <a href="https://github.com/gabrielMota21>
-  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=GabrielMota21&hide_border=false&include_all_commits=false&count_private=true"/>
-   <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielMota21la&hide_border=false"/>
-    <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMota21a&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</div>
-  
+- 📚 Full Stack Developer - HTML | CSS | Bootstrap | JavaScript | React | JAVA | SQL
+
 <h2>Apresentação:</h2>
 
 <p>Desde o início de minha carreira, sempre me dediquei a aprender novas tecnologias e metodologias de desenvolvimento de software. Acredito que a constante atualização é fundamental para o crescimento profissional e para atender às demandas do mercado de tecnologia.</p>
@@ -20,7 +13,6 @@
   <img align="center" alt="HTML" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 </div>
 
