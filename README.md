@@ -13,10 +13,10 @@
 
 <div align="center">
  <a href="https://github.com/GabrielMota21">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-dos-santos-gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-dos-santos-gomes&layout=compact&langs_count=6&theme=dracula">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-mota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-mota&layout=compact&langs_count=6&theme=dracula">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucas-dos-santos-gomes&theme=dracula)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabriel-mota&theme=dracula)](https://git.io/streak-stats)
  </a>
 </div>
 
