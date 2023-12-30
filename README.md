@@ -1,13 +1,13 @@
 # Olá Seja Bem-vindo ! Eu sou o Gabriel Silva
 - 📚 Desenvolvedor Front-End - HTML | CSS | JavaScript | React |
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00C647" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=1d44b8" />
 
 # Bem-vindo(a) ao meu perfil 😁
 
 <div align="center">
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=00C647&&center=true&Center=truewidth=100%&lines=Meu+nome+é+Gabriel;Tenho+21+anos.;Sou+desenvolvedor+Front-End!;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=1d44b8&&center=true&Center=truewidth=100%&lines=Meu+nome+é+Gabriel;Tenho+21+anos.;Sou+desenvolvedor+Front-End!;)](https://git.io/typing-svg)
  
 </div>
 
@@ -60,6 +60,6 @@
 
 </div>
 
-![Snake animation](https://github.com/lucas-dos-santos-gomes/lucas-dos-santos-gomes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00C647&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=1d44b8&section=footer" />
