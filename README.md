@@ -1,4 +1,4 @@
-# Olá Seja Bem-vindo ! Eu sou o Gabriel Silva
+# Olá Seja Bem-vindo ! Eu sou o Gabriel Mota
 - 📚 Desenvolvedor Front-End - HTML | CSS | JavaScript | React |
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=1d44b8" />
